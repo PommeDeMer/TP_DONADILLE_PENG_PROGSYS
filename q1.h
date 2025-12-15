@@ -2,7 +2,7 @@
 #include <string.h>   
 
 
-void message_bienvenue_shell(void);
+void welcome_message_shell(void);
 
 
 
