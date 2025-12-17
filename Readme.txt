@@ -13,3 +13,10 @@ Intructions pour la compilation des fichiers (pour la correction notamment):
 - il y aura peut etre un fichier bonus pour le code le plus moche avec une fonction qui rentre récursivement dans le shell plein de fois.
 -certains commentaires sont en anglais et d'autres en français, je m'en excuse car c"est un peu le bazar dans mon code
 
+
+J'ai trouvé ce sujet de projet très intéressant et très utile pour la deuxieme année de l'école, c'est bien dans la continuité de ce que l'on a appris en première année et intéressant du point de vue théorique comme pratique. 
+J'aime bien l'utilisation de fork() et les questions du projet permettent de bien comprendre leur utilisation. Bien que j'ai du faire le TP sous Geany sur la VM linux, (un peu lent).
+Je regrette de ne pas avoir eu le temps d'écrire une fonction qui rentre récursivement dans le shell, cela aurait pu être fort divertissant. 
+
+Bonnes fêtes au lecteur! 
+
